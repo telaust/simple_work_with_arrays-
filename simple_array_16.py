@@ -1,5 +1,5 @@
 ## Another Simple Program.
-## Program after filling the array that compose of 2018 numbers (more than 1 and less than 9999)
+## Program after filling the array that compose of 2018 numbers (more than 0 and less than 10000)
 ## selects numbers. These numbers in hexadecimal-digit form have the same end like in decimal-didigt usual form.
 ## The minimum of these numbers is a result.
 
